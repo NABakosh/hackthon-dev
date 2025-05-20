@@ -1,0 +1,8 @@
+@import './fonts/fonts.css'; /* импорт шрифтов */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+* {
+	font-family: 'TTCommons';
+}
