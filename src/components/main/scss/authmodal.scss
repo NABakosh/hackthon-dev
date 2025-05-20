@@ -13,7 +13,7 @@
 }
 
 form {
-	padding: 15px 70px 25px;
+	padding: 25px 60px 45px;
 	width: auto;
 	height: auto;
 	display: flex;
@@ -36,4 +36,15 @@ form {
 		background: #242424;
 		border-radius: 10px;
 	}
+	.submit-btn {
+		margin-top: 10px;
+		background-color: #f4f4f4;
+		color: black;
+	}
+}
+.error {
+	color: red;
+	font-size: 0.8rem;
+	margin-top: 4px;
+	display: block;
 }
